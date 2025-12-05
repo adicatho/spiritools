@@ -6,9 +6,9 @@
 
 It is a **large language model (LLM)** specifically trained on:
 
-- Sacred Scripture (Vulgate, Neo-Vulgate, ancient versions)  
-- Scholastic and medieval theology (St Thomas Aquinas, St Bonaventure, Gratian, etc.)  
-- Contemporary Magisterium (councils, catechism, encyclicals)  
+- Sacred Scripture (modern and ancient versions)
+- Scholastic and medieval theology (St Thomas Aquinas, St Bonaventure, etc.)  
+- Contemporary Magisterium (councils, catechism, encyclicals, iuris)  
 - Carmelite spirituality and the great mystics  
 - Analytical dictionaries and **more than 600,000 validated cross-references**
 
@@ -18,7 +18,7 @@ It is a **large language model (LLM)** specifically trained on:
 - **Zero reference hallucination** thanks to our advanced Ictus Win engine 
 - **Natively multilingual**: French, Latin, English, German, Spanish…  
 - **Fully open-source** – AGPL-3.0 licence  
-- **Inference engine**: **PasLLM** (pure Object Pascal, extremely lightweight)  
+- **Inference engine**: [PasLLM](https://github.com/BeRo1985/pasllm) (pure Object Pascal, extremely lightweight)  
 - **Lightweight** – runs on ordinary computers  
 - Planned integration into the next desktop version of Ictus Win
 - Potential stand-alone Open Source version - maybe Web
@@ -28,11 +28,11 @@ It is a **large language model (LLM)** specifically trained on:
 To provide a **trustworthy theological assistant** that:
 
 - always quotes the original text with precise references  
-- automatically connects passages using the millions of existing cross-references  
-- can be used in monasteries, missions, seminaries, or at home – even without internet
+- automatically connects passages using the proven Ictus Win database
+- can be used in monasteries, missions, seminaries, or at home – even without Internet
 
 This is **not** just another “Catholic ChatGPT”.  
-It is the **faithful digital continuation** of Ictus Win, at the service of the intelligence of faith.
+It is the **faithful digital continuation** of Ictus Win and Biblia Clerus, at the service of the intelligence of faith.
 
 ## Current Status (December 2025)
 
@@ -47,7 +47,7 @@ Join us:
 
 ## Links
 
-- Official website: https://spiritools.net  
+- Official website (upcoming): http://spiritools.net  
 - Ictus Win project: https://news.ictuswin.com  
 - Full announcement: https://news.ictuswin.com/2025/12/05/cequivient/
 
